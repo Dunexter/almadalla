@@ -31,7 +31,7 @@ class _webpageState extends State<webpage> {
 
   ParamsModel? _payerType;
   ParamsModel? _networkType;
-  ParamsModel? _providerType;
+  ParamsModel? _providerType;  
   ParamsModel? _specialityType;
   ParamsModel? _cityType;
   ParamsModel? _locationType;
